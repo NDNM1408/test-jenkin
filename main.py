@@ -9,7 +9,7 @@ from loguru import logger
  
 # Creating FastAPI instance
 app = FastAPI()
- 
+#comment
 # Creating class to define the request body
 # and the type hints of each attribute
 class HouseInfo(BaseModel):
